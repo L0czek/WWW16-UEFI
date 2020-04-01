@@ -17,3 +17,5 @@ Aby stworzyć obraz z wynikowym plikiem .efi:
 Oraz żeby uruchomić qemu:
 
 `make run`
+
+Plik `main.cc` znajduje się w katalogu `src`
